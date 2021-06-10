@@ -1,2 +1,2 @@
 # codebase
-# the code is begin
+# Start programming
